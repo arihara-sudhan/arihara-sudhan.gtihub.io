@@ -14,7 +14,7 @@
   {
     "title": "MindKural - RAG System",
     "dept": "RAG System - LLM | Taking Literature to Technolgy",
-    "description": "Using LangChain, I have developed a conversational AI bot that answers queries based on *Thirukkural*, the timeless Tamil literary masterpiece. To enable efficient retrieval, I employed FAISS for vector embeddings and similarity search. The system is further enhanced using Retrieval-Augmented Generation (RAG) with the Falcon LLM, ensuring insightful responses rooted in *Thirukkural's* wisdom. Since *Thirukkural* offers profound solutions to life's challenges, this system transforms its curative literary essence into a RAG-powered knowledge framework—one that not only informs but also heals.",
+    "description": "Using LangChain, I have developed a conversational AI bot that answers queries based on Thirukkural, the timeless Tamil literary masterpiece. To enable efficient retrieval, I employed FAISS for vector embeddings and similarity search. The system is further enhanced using Retrieval-Augmented Generation (RAG) with the Falcon LLM, ensuring insightful responses rooted in Thirukkural's wisdom. Since Thirukkural offers profound solutions to life's challenges, this system transforms its curative literary essence into a RAG-powered knowledge framework—one that not only informs but also heals.",
     "imageUrl": "https://tamilandvedas.com/wp-content/uploads/2014/12/thiruvalluvar-logo.jpg"
   },
   {
