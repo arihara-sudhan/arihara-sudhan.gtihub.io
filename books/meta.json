@@ -1,5 +1,11 @@
 [
   {
+    "cover": "./covers/langchain.png",
+    "url": "https://github.com/arihara-sudhan/arihara-sudhan.github.io/blob/main/books/BOOKS/langchain.pdf",
+    "name": "Basics of LangChain",
+    "tag": "machine-learning"
+  },
+  {
     "cover": "./covers/dpreact.png",
     "url": "https://github.com/arihara-sudhan/arihara-sudhan.github.io/blob/main/books/BOOKS/dpsreact.pdf",
     "name": "Design Patterns in ReactJS",
